@@ -18,12 +18,9 @@
 <br>
 
 ## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/abdulrahman-mohammed22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-mohammed22" height="50" width="60" /></a>
-<br>
-<br>
-<a href="https://medium.com/@meabdulrahman66" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@meabdulrahman66" height="50" width="60" /></a>
-</p>
+<div align="left">
+<a href="https://linkedin.com/in/abdulrahman-mohammed22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-mohammed22" height="50" width="60" /></a><a href="https://medium.com/@meabdulrahman66" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@meabdulrahman66" height="50" width="60" /></a>
+</div>
  
  <br>
  
