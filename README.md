@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Mohammed Ismael & I'm 22 years old</h1>
-<h3 align="left">I'm a Junior Front End Developer with more that a year experience in making interactive and highly responsive websites</h3>
+<h3 align="left">I'm a Junior Front End Developer with experience more than a year in making interactive and highly responsive websites with clean and readable code</h3>
 
 <br>
 
