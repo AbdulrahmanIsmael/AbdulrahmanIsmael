@@ -19,7 +19,7 @@
 
 ## Connect with me:
 <div align="left">
-<a href="https://linkedin.com/in/abdulrahman-mohammed22" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="abdulrahman-mohammed22" height="50" width="60" /></a> <a href="https://medium.com/@meabdulrahman66" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@meabdulrahman66" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/abdulrahman-mohammed22" target="blank" title="LinkedIn account"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="abdulrahman-mohammed22" height="50" width="60" /></a> <a href="https://medium.com/@meabdulrahman66" target="blank" title="Medium account"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@meabdulrahman66" height="50" width="60" /></a>
 </div>
  
  <br>
