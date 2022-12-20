@@ -9,19 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AbdulrahmanIsmael)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@meabdulrahman66)
+- 📝 I regularly write articles on [Medium](https://medium.com/@meabdulrahman66) & [Dev](https://dev.to/abdulrahmanismael)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nMy9sY0r9CEKy0TCR7aphpQn8mSsVVle/view?usp=sharing)
 
 - 📫 How to reach me : **meabdulrahman66@gmail.com**
 
 - ⚡ Fun fact : **One of my dreams is to run my own business one day**
-
-<br>
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <br>
 
