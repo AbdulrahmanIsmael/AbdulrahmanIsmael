@@ -11,20 +11,27 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@meabdulrahman66)
 
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nMy9sY0r9CEKy0TCR7aphpQn8mSsVVle/view?usp=sharing)
+
 - 📫 How to reach me : **meabdulrahman66@gmail.com**
 
 - ⚡ Fun fact : **One of my dreams is to run my own business one day**
 
 <br>
 
+## Latest Medium Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 ## Connect with me:
 <div align="left">
+ <a href="https://dev.to/abdulrahmanismael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulrahmanismael" height="50" width="60" /></a>
 <a href="https://linkedin.com/in/abdulrahman-mohammed22" target="blank" title="LinkedIn account"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="abdulrahman-mohammed22" height="50" width="60" /></a> <a href="https://medium.com/@meabdulrahman66" target="blank" title="Medium account"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@meabdulrahman66" height="50" width="60" /></a>
 </div>
  
  <br>
- 
- ###
  
 ## Languages and Tools:
 <p align="left">
@@ -32,7 +39,6 @@
 </p>
 
 <br>
-
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en&layout=compact" alt="abdulrahmanismael" /></p>
 <p align="center">&nbsp;<img float="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en" alt="abdulrahmanismael" />
