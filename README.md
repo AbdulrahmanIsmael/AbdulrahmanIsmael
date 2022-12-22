@@ -26,6 +26,8 @@
 ## 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netlify vs Vercel vs Surge | The best platform I use to deploy your projects 🤔?!](https://dev.to/abdulrahmanismael/netlify-vs-vercel-vs-surge-the-best-platform-i-use-to-deploy-your-projects--56m5)
+- [You are not bad at problem-solving as you think, you are just on the right path (Motivated Speech For Developers)👌](https://dev.to/abdulrahmanismael/you-are-not-bad-at-problem-solving-as-you-think-you-are-just-on-the-right-path-motivated-speech-for-developers-36mk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -39,6 +41,8 @@
 
 ---
 
+## 📊 Stats
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en&layout=compact" alt="abdulrahmanismael" /></p>
-<p align="center">&nbsp;<img float="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en" alt="abdulrahmanismael" />
-<p align="center"><img float="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmanismael&theme=dark" alt="abdulrahmanismael" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en" alt="abdulrahmanismael" /></p>
