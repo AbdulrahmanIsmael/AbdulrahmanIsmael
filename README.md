@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Mohammed Ismael & I'm 22 years old</h1>
 <h3 align="center">🌐 I am a Junior Front End Developer with over a year of experience building interactive and highly responsive websites with clean and readable code</h3>
-<h3 align="center">✍️ I also write articles discussing some important topics about Programming and Web Development</h3>
+<h3 align="center">✍️ I also write articles on some important topics about Programming & Web Development</h3>
+
+<br>
 
 - 🔭 I’m currently working on [Memorization Test Project](https://github.com/AbdulrahmanIsmael/Memorization-test-Project)
 
@@ -16,12 +18,16 @@
 
 - ⚡ Fun fact : **One of my dreams is to run my own business one day**
 
+<br>
+
 ## 🤝 Connect with me:
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSGLCMXfVLpDcnLGGjsxzDVNDhKFqSpjKBBWGZFzgdhlfLhLNntxsctMJVMdxghJghkQZVzl)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-mohammed22)
 [![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abdulrahmanismael)
 [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@meabdulrahman66)
+
+<br>
 
 ## 📜 Latest Blog Posts
 
@@ -30,7 +36,11 @@
 - [You are not bad at problem-solving as you think, you are just on the right path (Motivated Speech For Developers)👌](https://dev.to/abdulrahmanismael/you-are-not-bad-at-problem-solving-as-you-think-you-are-just-on-the-right-path-motivated-speech-for-developers-36mk)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+
 ---
+ 
+<br>
  
 ## Languages and Tools:
 <p align="left">
@@ -41,8 +51,9 @@
 
 ---
 
+<br>
+
 ## 📊 Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en&layout=compact" alt="abdulrahmanismael" /></p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en" alt="abdulrahmanismael" /></p>
