@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Mohammed Ismael & I'm 22 years old</h1>
 <h3 align="center">I am a Junior Front End Developer with over a year of experience building interactive and highly responsive websites with clean and readable code</h3>
+<h3 align="center">I also write articles discussing some important topics about Programming and Web Development</h3>
 
 <br>
 
@@ -26,6 +27,8 @@
 </div>
  
  <br>
+  
+ ---
  
 ## Languages and Tools:
 <p align="left">
@@ -33,6 +36,8 @@
 </p>
 
 <br>
+
+---
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en&layout=compact" alt="abdulrahmanismael" /></p>
 <p align="center">&nbsp;<img float="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en" alt="abdulrahmanismael" />
