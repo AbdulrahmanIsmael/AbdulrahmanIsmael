@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Mohammed Ismael & I'm 22 years old</h1>
-<h3 align="center">I am a Junior Front End Developer with over a year of experience building interactive and highly responsive websites with clean and readable code</h3>
-<h3 align="center">I also write articles discussing some important topics about Programming and Web Development</h3>
+<h3 align="center">🌐 I am a Junior Front End Developer with over a year of experience building interactive and highly responsive websites with clean and readable code</h3>
+<h3 align="center">✍️ I also write articles discussing some important topics about Programming and Web Development</h3>
 
 - 🔭 I’m currently working on [Memorization Test Project](https://github.com/AbdulrahmanIsmael/Memorization-test-Project)
 
@@ -22,6 +22,11 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-mohammed22)
 [![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abdulrahmanismael)
 [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@meabdulrahman66)
+
+## 📜 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
  
