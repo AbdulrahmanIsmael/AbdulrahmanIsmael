@@ -2,8 +2,6 @@
 <h3 align="center">I am a Junior Front End Developer with over a year of experience building interactive and highly responsive websites with clean and readable code</h3>
 <h3 align="center">I also write articles discussing some important topics about Programming and Web Development</h3>
 
-<br>
-
 - 🔭 I’m currently working on [Memorization Test Project](https://github.com/AbdulrahmanIsmael/Memorization-test-Project)
 
 - 🌱 I’m currently learning **React.js**
@@ -18,17 +16,14 @@
 
 - ⚡ Fun fact : **One of my dreams is to run my own business one day**
 
-<br>
+## 🤝 Connect with me:
 
-## Connect with me:
-<div align="left">
- <a href="https://dev.to/abdulrahmanismael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulrahmanismael" height="50" width="60" /></a>
-<a href="https://linkedin.com/in/abdulrahman-mohammed22" target="blank" title="LinkedIn account"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="abdulrahman-mohammed22" height="50" width="60" /></a> <a href="https://medium.com/@meabdulrahman66" target="blank" title="Medium account"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@meabdulrahman66" height="50" width="60" /></a>
-</div>
- 
- <br>
-  
- ---
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSGLCMXfVLpDcnLGGjsxzDVNDhKFqSpjKBBWGZFzgdhlfLhLNntxsctMJVMdxghJghkQZVzl)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-mohammed22)
+[![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abdulrahmanismael)
+[![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@meabdulrahman66)
+
+---
  
 ## Languages and Tools:
 <p align="left">
