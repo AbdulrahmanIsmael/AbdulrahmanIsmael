@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Memorization Test Project](https://github.com/AbdulrahmanIsmael/Memorization-test-Project)
+- 🔭 I’m currently working on [E-Commerce Store Project](https://github.com/AbdulrahmanIsmael/shippr_ecommerce_store)
 
 - 🌱 I’m currently learning **React.js**
 
