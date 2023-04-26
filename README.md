@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Store Project](https://github.com/AbdulrahmanIsmael/shippr_ecommerce_store)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Redux Toolkit**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AbdulrahmanIsmael)
 
