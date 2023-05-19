@@ -4,9 +4,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [E-Commerce Store Project](https://github.com/AbdulrahmanIsmael/shippr_ecommerce_store)
+- 🔭 I’m currently working on [Cinemania Project](https://github.com/AbdulrahmanIsmael/Cinemania)
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **React Query + Next.js**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AbdulrahmanIsmael)
 
