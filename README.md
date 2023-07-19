@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Focusing on learning and improving my skills right now]()
+- 🔭 I’m currently working on **Focusing on learning and improving my skills right now**
 
 - 🌱 I’m currently learning **Next.js**
 
