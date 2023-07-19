@@ -4,19 +4,19 @@
 
 <br>
 
-- 🔭 I’m currently working on [Cinemania Project](https://github.com/AbdulrahmanIsmael/Cinemania)
+- 🔭 I’m currently working on [Focusing on learning and improving my skills right now]()
 
-- 🌱 I’m currently learning **React Query + Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AbdulrahmanIsmael)
 
 - 📝 I write articles on [Medium](https://medium.com/@meabdulrahman66) & [Dev](https://dev.to/abdulrahmanismael)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ekXhYUIjCum2LPtyAkOGISMV2lOlnR_S/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1vcbnovQQFqEU7T924VUkmrICBkuknHEt/view?usp=drive_link)
 
-- 📫 How to reach me : **abdulrahmanismael2023@gmail.com**
+- 📫 How to reach me: **abdulrahmanismael2023@gmail.com**
 
-- ⚡ Fun fact : **One of my dreams is to run my own business one day**
+- ⚡ Fun fact: **One of my dreams is to run my own business one day**
 
 <br>
 
