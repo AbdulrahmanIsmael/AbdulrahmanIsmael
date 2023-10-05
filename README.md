@@ -4,9 +4,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **Focusing on learning and improving my skills right now**
+- 🔭 I’m currently working on **E-commerce online store in React**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Node.js, Express & MongoDB**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AbdulrahmanIsmael)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **abdulrahmanismael2023@gmail.com**
 
-- ⚡ Fun fact: **One of my dreams is to run my own business one day**
+- ⚡ Fun fact: **My dreams is to run my own business one day.**
 
 <br>
 
@@ -35,6 +35,9 @@
 - [Netlify vs Vercel vs Surge | The best platform I use to deploy your projects 🤔?!](https://dev.to/abdulrahmanismael/netlify-vs-vercel-vs-surge-the-best-platform-i-use-to-deploy-your-projects--56m5)
 - [You are not bad at problem-solving as you think, you are just on the right path (Motivated Speech For Developers)👌](https://dev.to/abdulrahmanismael/you-are-not-bad-at-problem-solving-as-you-think-you-are-just-on-the-right-path-motivated-speech-for-developers-36mk)
 - [How does The Internet work behind the scenes?! 🤔](https://medium.com/@meabdulrahman66/how-does-the-internet-work-behind-the-scenes-862aa48e1000)
+- [Revolutionize Your CSS Skills with These 8 Cutting-Edge CSS Features](https://medium.com/@meabdulrahman66/revolutionize-your-css-skills-with-these-8-cutting-edge-css-features-870b70b8f940)
+- [Unlocking the Power of React: Fresh Hooks to Expand Your Development Toolkit](https://medium.com/@meabdulrahman66/unlocking-the-power-of-react-fresh-hooks-to-expand-your-development-toolkit-35f87d87dfbf)
+- [State management in React.js](https://medium.com/@meabdulrahman66/state-management-in-react-js-7e9d6628447a)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
