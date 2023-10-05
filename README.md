@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **abdulrahmanismael2023@gmail.com**
 
-- ⚡ Fun fact: **My dreams is to run my own business one day.**
+- ⚡ Fun fact: **My dream is to run my own business one day.**
 
 <br>
 
