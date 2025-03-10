@@ -14,7 +14,7 @@ I'm **Abdulrahman Mohammed Ismael**, a passionate **Front-End Developer** dedica
 - 🌱 Actively learning **Back-end development**.
 - ✍️ I write technical articles on [Medium](https://medium.com/@DevAbdulrahman) and [Dev.to](https://dev.to/abdulrahmanismael).
 - 💼 Explore my work on [GitHub](https://github.com/AbdulrahmanIsmael).
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1Lf3H6iQzETgkKIy4LYMgI0SwFwUu4n88/view?usp=sharing).
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1rcaX4oTDxChmYY8ymhj_qqQJcesUbhNB/view?usp=sharing).
 - 📫 Reach me at **<abdulrahmanismael2023@gmail.com>**.
 - ⚡ Fun fact: I dream of building my own business one day!
 
