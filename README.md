@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I'm **Abdulrahman Mohammed Ismael**, a passionate **Front-End Developer** dedicated to building interactive, responsive, and high-quality websites. My work guarantees optimal performance and maintains exceptional quality standards. I also enjoy writing insightful articles on web development and programming to share my knowledge with the community.
+I'm **Abdulrahman Mohammed Ismael**, a passionate **Front-End Developer** dedicated to building interactive, responsive, high-quality websites. My work guarantees optimal performance and maintains exceptional quality standards. I also enjoy writing insightful web development and programming articles to share my knowledge with the community.
 
 <div align="center">
  <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif" alt="web development">
@@ -10,7 +10,7 @@ I'm **Abdulrahman Mohammed Ismael**, a passionate **Front-End Developer** dedica
 
 ## 🚀 About Me
 
-- 🔭 Currently working on an **E-commerce online store using React**.
+- 🔭 Currently working on an **iQuiz - Quizzes & Surveys Website/platform**.
 - 🌱 Actively learning **Back-end development**.
 - ✍️ I write technical articles on [Medium](https://medium.com/@DevAbdulrahman) and [Dev.to](https://dev.to/abdulrahmanismael).
 - 💼 Explore my work on [GitHub](https://github.com/AbdulrahmanIsmael).
@@ -36,6 +36,7 @@ I'm **Abdulrahman Mohammed Ismael**, a passionate **Front-End Developer** dedica
 - [Understanding the Internet Behind the Scenes](https://medium.com/@DevAbdulrahman/how-does-the-internet-work-behind-the-scenes-862aa48e1000)
 - [8 Cutting-Edge CSS Features to Improve Your CSS Skills](https://medium.com/@DevAbdulrahman/revolutionize-your-css-skills-with-these-8-cutting-edge-css-features-870b70b8f940)
 - [Fresh React Hooks to Elevate Your Projects](https://medium.com/@DevAbdulrahman/unlocking-the-power-of-react-fresh-hooks-to-expand-your-development-toolkit-35f87d87dfbf)
+- [Understanding Currying in JavaScript | A Functional Programming Technique](https://medium.com/@DevAbdulrahman/currying-the-technique-for-controlling-javascript-d11b4d5e34c1)
 
 ---
 
