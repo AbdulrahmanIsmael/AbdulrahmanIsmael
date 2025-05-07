@@ -50,7 +50,8 @@ I'm **Abdulrahman Mohammed Ismael**, a passionate **Front-End Developer** dedica
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="100" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg" alt="react-router" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg" alt="react-router" width="100" height="80"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/react-query.svg" alt="react-query" width="120" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" width="120" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="express" width="80" height="60"/>
