@@ -49,12 +49,16 @@ I'm **Abdulrahman Mohammed Ismael**, a passionate **Front-End Developer** dedica
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="100" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg" alt="react-router" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" width="90" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" width="120" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="express" width="80" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" width="100" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" width="120" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="120" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg" alt="firebase" width="120" height="80"/>
 </p>
 
 ---
