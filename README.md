@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I'm **Abdulrahman Mohammed Ismael**, a passionate **Front-End Developer** dedicated to building interactive, responsive, high-quality websites. My work guarantees optimal performance and maintains exceptional quality standards. I also enjoy writing insightful web development and programming articles to share my knowledge with the community.
+I'm **Abdulrahman Mohammed Ismael**, a **Web Developer** dedicated to building interactive, responsive, high-quality websites. My work guarantees optimal performance and maintains exceptional quality standards. I also enjoy writing insightful web development and programming articles to share my knowledge with the community.
 
 <div align="center">
  <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif" alt="web development">
