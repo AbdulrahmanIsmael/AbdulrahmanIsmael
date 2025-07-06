@@ -12,9 +12,9 @@ I'm **Abdulrahman Mohammed Ismael**, a passionate **Front-End Developer** dedica
 
 - 🔭 Currently working on an **iQuiz - Quizzes & Surveys Website/platform**.
 - 🌱 Actively learning **Angular**.
-- ✍️ I write technical articles on [Medium](https://medium.com/@DevAbdulrahman) and [Dev.to](https://dev.to/abdulrahmanismael).
+- ✍️ I write technical articles on [Medium](https://medium.com/@raslan25) and [Dev.to](https://dev.to/raslan25).
 - 💼 Explore my work on [GitHub](https://github.com/AbdulrahmanIsmael).
-- 📄 Check out my [CV](https://drive.google.com/file/d/1M9_tanSWTdFMvIrpByeoBv1H5bXqhg5a/view?usp=sharing).
+- 📄 Check out my [CV](https://drive.google.com/file/d/1nNte7XMulPOV34KyevYyBBQ0k9wi4uwr/view?usp=sharing)
 - 📫 Reach me at **<abdulrahmanismael2023@gmail.com>**.
 - ⚡ Fun fact: I dream of building my own business one day!
 
@@ -24,19 +24,8 @@ I'm **Abdulrahman Mohammed Ismael**, a passionate **Front-End Developer** dedica
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=CllgCHrglzjNcTGxWSVWmCSkzwJHJjdHVpPNlRBHmtXsmxWFvRdnnCqCnrWwWchmPFkQlCWrkDq)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulrahmanismael)
-[![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abdulrahmanismael)
-[![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@DevAbdulrahman)
-
----
-
-## 📜 Latest Blog Posts
-
-- [Netlify vs Vercel vs Surge | Best Deployment Platform](https://dev.to/abdulrahmanismael/netlify-vs-vercel-vs-surge-the-best-platform-i-use-to-deploy-your-projects--56m5)
-- [Problem-Solving Mindset for Developers](https://dev.to/abdulrahmanismael/you-are-not-bad-at-problem-solving-as-you-think-you-are-just-on-the-right-path-motivated-speech-for-developers-36mk)
-- [Understanding the Internet Behind the Scenes](https://medium.com/@DevAbdulrahman/how-does-the-internet-work-behind-the-scenes-862aa48e1000)
-- [8 Cutting-Edge CSS Features to Improve Your CSS Skills](https://medium.com/@DevAbdulrahman/revolutionize-your-css-skills-with-these-8-cutting-edge-css-features-870b70b8f940)
-- [Fresh React Hooks to Elevate Your Projects](https://medium.com/@DevAbdulrahman/unlocking-the-power-of-react-fresh-hooks-to-expand-your-development-toolkit-35f87d87dfbf)
-- [Understanding Currying in JavaScript | A Functional Programming Technique](https://medium.com/@DevAbdulrahman/currying-the-technique-for-controlling-javascript-d11b4d5e34c1)
+[![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/raslan25)
+[![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@raslan25)
 
 ---
 
