@@ -43,6 +43,9 @@ I'm **Abdulrahman Mohammed Ismael**, a **Web Developer** dedicated to building i
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/react-query.svg" alt="react-query" width="120" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" width="120" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="120" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pyton" width="100" height="100"/>
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="100" height="100"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="express" width="80" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" width="100" height="60"/>
