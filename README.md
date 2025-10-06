@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I'm **Abdulrahman Mohammed Ismael**, a **Web Developer** dedicated to building interactive, responsive, high-quality websites. My work guarantees optimal performance and maintains exceptional quality standards. I also enjoy writing insightful web development and programming articles to share my knowledge with the community.
+I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & **Web Developer** dedicated to building interactive, responsive, high-quality websites and Applications. My work guarantees optimal performance and maintains exceptional quality standards. I also enjoy writing insightful web development and programming articles to share my knowledge with the community.
 
 <div align="center">
  <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif" alt="web development">
@@ -10,13 +10,13 @@ I'm **Abdulrahman Mohammed Ismael**, a **Web Developer** dedicated to building i
 
 ## 🚀 About Me
 
-- 🔭 Currently working on an **iQuiz - Quizzes & Surveys Website/platform**.
-- 🌱 Actively learning **Angular**.
+- 🔭 Currently working on a Task.
+- 🌱 Actively **Working** & Learning **PHP & Laravel**.
 - ✍️ I write technical articles on [Medium](https://medium.com/@raslan25) and [Dev.to](https://dev.to/raslan25).
 - 💼 Explore my work on [GitHub](https://github.com/AbdulrahmanIsmael).
-- 📄 Check out my [CV](https://drive.google.com/file/d/1nNte7XMulPOV34KyevYyBBQ0k9wi4uwr/view?usp=sharing)
+- 📄 Check out my [CV](https://drive.google.com/file/d/1OY15Dg8aKO9uy2niXVp_trrKP5XsjS0z/view?usp=sharing)
 - 📫 Reach me at **<abdulrahmanismael2023@gmail.com>**.
-- ⚡ Fun fact: I dream of building my own business one day!
+- ⚡ Fun fact: I have a dream of running my own business one day
 
 ---
 
