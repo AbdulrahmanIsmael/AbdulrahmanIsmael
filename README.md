@@ -10,7 +10,7 @@ I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & **Web Developer**
 
 ## 🚀 About Me
 
-- 🌱 Actively **Working** & Learning **PHP & Laravel**.
+- 🌱 Actively Learning **PHP & Laravel**.
 - ✍️ I write technical articles on [Medium](https://medium.com/@raslan25) and [Dev.to](https://dev.to/raslan25).
 - 💼 Explore my work on [GitHub](https://github.com/AbdulrahmanIsmael).
 - 📄 Check out my [CV](https://drive.google.com/file/d/1OY15Dg8aKO9uy2niXVp_trrKP5XsjS0z/view?usp=sharing)
