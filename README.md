@@ -10,6 +10,7 @@ I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & **Web Developer**
 
 ## 🚀 About Me
 
+- 👨‍💻 My Portfolio: [Portfolio](https://abdulrahman-ismael-portfolio.vercel.app/)
 - 🌱 Actively Learning **PHP & Laravel**.
 - ✍️ I write technical articles on [Medium](https://medium.com/@raslan25) and [Dev.to](https://dev.to/raslan25).
 - 💼 Explore my work on [GitHub](https://github.com/AbdulrahmanIsmael).
@@ -21,6 +22,8 @@ I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & **Web Developer**
 
 ## 🌐 Connect with Me
 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge)](https://abdulrahman-ismael-portfolio.vercel.app/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=CllgCHrglzjNcTGxWSVWmCSkzwJHJjdHVpPNlRBHmtXsmxWFvRdnnCqCnrWwWchmPFkQlCWrkDq)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdulrahmanismael)
 [![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/raslan25)
