@@ -56,12 +56,3 @@ I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & **Web Developer**
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="120" height="80"/>
   <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg" alt="firebase" width="120" height="80"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanismael&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
