@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & a **Web Developer** dedicated to building interactive, responsive, high-quality websites and Applications. My work guarantees optimal performance, Separation of Concerns, Scalable architecture, and maintains exceptional quality standards. I also enjoy writing insightful web development and programming articles to share my knowledge with the community.
+I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & a **Web Developer** dedicated to building interactive, responsive, high-quality websites and Applications. My work guarantees optimal performance, Separation of Concerns, Scalable architecture, and maintains exceptional quality standards. I also enjoy writing insightful articles about technology and web development to share my knowledge with the community.
 
 <div align="center">
  <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif" alt="web development">
@@ -38,12 +38,14 @@ I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & a **Web Developer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="60" height="60"/>
+   <img src="https://raw.githubusercontent.com/pugjs/pug-logo/61429fc45b5a411b83bdb5c99a61084d3054d1e6/SVG/pug-final-logo-_-colour-128.svg" alt="pug" width="60" height="60"/>
+ <img src="https://www.svgrepo.com/show/303440/gulp-logo.svg" alt="gulp" width="60" height="80" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="100" height="60"/>
+  <img src="https://i.pinimg.com/1200x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="nextjs" width="100" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="100" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg" alt="react-router" width="100" height="80"/>
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fuoztlt50jlvdsizrvyz8.png" alt="react-router" width="100" height="80"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/react-query.svg" alt="react-query" width="120" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
   <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" alt="react-hook-form" width="60" height="60"/>
@@ -51,10 +53,11 @@ I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & a **Web Developer
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="120" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pyton" width="100" height="100"/>
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="c" width="100" height="100"/>
+   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="100" height="110"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="express" width="80" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" width="100" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" width="120" height="80"/>
+  <img src="https://media.licdn.com/dms/image/v2/C4E1BAQEJXSzlaqibng/company-background_10000/company-background_10000/0/1642537529257/webpack_cover?e=2147483647&v=beta&t=JKAlWw3dOaZi6-Aj2enMATA72DED1WOWhtIjslmrFs4" alt="webpack" width="100" height="60"/>
+  <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="tailwindcss" width="120" height="80"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="120" height="80"/>
   <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg" alt="firebase" width="120" height="80"/>
 </p>
