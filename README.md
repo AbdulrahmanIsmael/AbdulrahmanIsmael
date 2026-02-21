@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & **Web Developer** dedicated to building interactive, responsive, high-quality websites and Applications. My work guarantees optimal performance and maintains exceptional quality standards. I also enjoy writing insightful web development and programming articles to share my knowledge with the community.
+I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & a **Web Developer** dedicated to building interactive, responsive, high-quality websites and Applications. My work guarantees optimal performance, Separation of Concerns, Scalable architecture, and maintains exceptional quality standards. I also enjoy writing insightful web development and programming articles to share my knowledge with the community.
 
 <div align="center">
  <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif" alt="web development">
@@ -10,6 +10,7 @@ I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & **Web Developer**
 
 ## 🚀 About Me
 
+- 💼 Work at **Taqnit Al-M'alumat | تقنية المعلومات** as **Frontend Engineer**
 - 👨‍💻 My Portfolio: [Portfolio](https://abdulrahman-ismael-portfolio.vercel.app/)
 - 🌱 Actively Learning **PHP & Laravel**.
 - ✍️ I write technical articles on [Medium](https://medium.com/@raslan25) and [Dev.to](https://dev.to/raslan25).
@@ -45,6 +46,7 @@ I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & **Web Developer**
   <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg" alt="react-router" width="100" height="80"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/react-query.svg" alt="react-query" width="120" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
+  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" alt="react-hook-form" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" width="120" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="120" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pyton" width="100" height="100"/>
