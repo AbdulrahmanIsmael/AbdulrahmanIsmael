@@ -47,8 +47,9 @@ I'm **Abdulrahman Mohammed Ismael**, a **Software Engineer** & a **Web Developer
   <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" width="100" height="60"/>
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fuoztlt50jlvdsizrvyz8.png" alt="react-router" width="100" height="80"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/react-query.svg" alt="react-query" width="120" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
-  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" alt="react-hook-form" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60" title="redux"/>
+ <img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" alt="zustand" width="60" height="60" title="zustand"/>
+  <img src="https://miro.medium.com/1*vuI_W9z_EfQjJwu_EY91fw.jpeg" alt="react-hook-form" width="120" height="120"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node.js" width="120" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="120" height="100"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pyton" width="100" height="100"/>
