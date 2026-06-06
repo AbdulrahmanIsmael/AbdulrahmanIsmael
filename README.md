@@ -35,7 +35,7 @@ const abdulrahman = {
     "UI/UX-to-code translation",
     "RESTful API integration",
   ],
-  learning: ["PHP", "Laravel", "Node.js", "Express"],
+  learning: ["Node.js", "Express", "PHP", "Laravel"],
   writing:  ["medium.com/@raslan25", "dev.to/raslan25"],
   goal:     "Run my own product one day 🚀",
 };
