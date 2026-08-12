@@ -28,7 +28,7 @@
 ```ts
 const abdulrahman = {
   role:     "Full-Stack Engineer",
-  core:     ["React.js", "Next.js", "Angular", "TypeScript", "Tailwind CSS", "Node.js", "Express", "MySQL"],
+  core:     ["React.js", "Next.js", "Angular", "React Native", "TypeScript", "Tailwind CSS", "Node.js", "Express", "MySQL"],
   strengths: [
     "Scalable architecture from scratch",
     "Performance optimization & SEO (100% Lighthouse)",
@@ -54,7 +54,7 @@ const abdulrahman = {
 
 **Freelance Frontend Developer** — *Aydin Labs* `Sep 2025 – Oct 2025`
 - Built interactive dashboard components for an AI Agent & CRM platform (Next.js + TypeScript + Tailwind)
-- Architected the full frontend for an AI Image Platform's Mockup Workspace with Zustand state layer
+- Architected the full frontend for an AI Image Platform's Mockup Workspace with the Zustand state layer
 - Integrated image processing pipelines with RESTful APIs
 
 **Web Developer** — *Ipda3 Teck* `Aug 2021 – Sep 2021`
