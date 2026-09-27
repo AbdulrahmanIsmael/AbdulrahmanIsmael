@@ -27,15 +27,15 @@
 
 ```ts
 const abdulrahman = {
-  role:     "Full-Stack Engineer",
-  core:     ["React.js", "Next.js", "Angular", "React Native", "TypeScript", "Tailwind CSS", "Node.js", "Express", "MySQL"],
+  role:     "Frontend Engineer",
+  core:     ["React.js", "Next.js", "Angular", "React Native", "TypeScript", "Tailwind CSS"],
   strengths: [
     "Scalable architecture from scratch",
     "Performance optimization & SEO (100% Lighthouse)",
     "UI/UX-to-code translation",
     "RESTful API integration",
   ],
-  learning: ["React Native"],
+  learning: ["Node.js", "Express", "MongoDB"],
   writing:  ["medium.com/@raslan25", "dev.to/raslan25"],
   goal:     "Run my own product one day 🚀",
 };
